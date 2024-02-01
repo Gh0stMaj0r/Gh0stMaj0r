@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0stMaj0r)](https://github.com/anuraghazra/github-readme-stats)
+### :hammer_and_wrench: Languages and Tools :
+<img src"https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 
 <!--
 **Gh0stMaj0r/Gh0stMaj0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
