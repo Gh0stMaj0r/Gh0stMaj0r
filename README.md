@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 21 years old student developer from Oulu, Finland. <br>I am passionate coder, why is currently working as an Intern in M-Technology Oy.
+I am 22 years old Software Developer from Oulu, Finland. <br>I am passionate coder, why is currently working as an Software Development and Server Management in M-Technology Oy.
 
 
 ## 🛠️ Front-End:
