@@ -18,8 +18,11 @@ I am 22 years old Software Developer from Oulu, Finland. <br>I am passionate cod
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arttu-suhonen)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/Gh0stMaj0r/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=vercel&logoColor=white)](https://dev-arttu.vercel.app/)<br><br>
 [![](https://visitcount.itsvg.in/api?id=Gh0stMaj0r&icon=8&color=6)](https://visitcount.itsvg.in)
+
+## ⚡ Check My Porfolio:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=vercel&logoColor=white)](https://dev-arttu.vercel.app/)<br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
