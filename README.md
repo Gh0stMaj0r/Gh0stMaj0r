@@ -22,7 +22,7 @@ I am 22 years old Software Developer from Oulu, Finland. <br>I am passionate cod
 
 ## ⚡ Check My Porfolio:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=vercel&logoColor=white)](https://dev-arttu.vercel.app/)<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-arttu.vercel.app/)<br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
